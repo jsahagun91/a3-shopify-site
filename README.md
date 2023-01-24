@@ -5,4 +5,4 @@ https://a3garmentdesign.com/
 
 ##
 
-![A3](https://jsahagun.io/wp-content/uploads/2023/01/a3site2.gif)
+![Dapp Token Exchange](/assets/a3site2.gif)
