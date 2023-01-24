@@ -3,6 +3,6 @@
 
 https://a3garmentdesign.com/
 
-##
+## ⚙️: Shopify Liquid, HTML, CSS
 
-![Dapp Token Exchange](/assets/a3site2.gif)
+![A3](/assets/a3site2.gif)
