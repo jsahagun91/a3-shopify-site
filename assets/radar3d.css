@@ -1,0 +1,18 @@
+.index-3d-model {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 60%;
+    height: 60%;
+    margin: auto;
+    --poster-color: transparent;
+    animation: canvasModelFadeIn 1.8s ease-in-out 1;
+    --progress-bar-color: transparent;
+  
+}
+
+/* <style>
+index-3d-model {animation: canvasModelFadeIn 1.8s ease-in-out 1;}
+</style> */
